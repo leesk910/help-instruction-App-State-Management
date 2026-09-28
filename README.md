@@ -27,28 +27,27 @@ helphomescreen part 1
 ![Help Instruction helphomescreen part 1  App](helphomescreen-part1.png)
 
 helphomescreen part 2
-![Help Instruction  helphomescreen part 2 App](helphomescreen part 2.png)
+![Help Instruction  helphomescreen part 2 App](helphomescreen-part2.png)
 
 helphomescreen part 3
-![Help Instruction  helphomescreen part 3 App](main.png)
+![Help Instruction  helphomescreen part 3 App](helpscreen-part3.png)
 
 Provider Dart App
 ![Help Instruction  Provider Dart App](provider.png)
 
 flutter description 1
-![Help Instruction flutter description 1 App](main.png)
+![Help Instruction flutter description 1 App](flutter-description.png)
 
 flutter description 2
-![Help Instruction flutter description 2 App](main.png)
+![Help Instruction flutter description 2 App](flutter-description-part2.png)
 
 flutter detail 1
-![Help Instruction flutter detail 1 App](main.png)
+![Help Instruction flutter detail 1 App](detail-screen.png)
 
 flutter detail 2
-![Help Instruction flutter detail 2 App](main.png)
+![Help Instruction flutter detail 2 App](detail-2.png)
 
 flutter detail 3
-![Help Instruction flutter detail 3 App](main.png)
+![Help Instruction flutter detail 3 App](detail-3.png)
 
-flutter detail 3
-![Help Instruction flutter detail 3 App](main.png)
+
