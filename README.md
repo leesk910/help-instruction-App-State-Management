@@ -23,6 +23,9 @@ App Darkmode
 bookmark App
 ![Help Instruction  App bookmark App](bookmark.png)
 
+Provider Dart App
+![Help Instruction  Provider Dart App](provider.png)
+
 helphomescreen part 1
 ![Help Instruction helphomescreen part 1  App](helphomescreen-part1.png)
 
@@ -30,10 +33,8 @@ helphomescreen part 2
 ![Help Instruction  helphomescreen part 2 App](helphomescreen-part2.png)
 
 helphomescreen part 3
-![Help Instruction  helphomescreen part 3 App](helpscreen-part3.png)
+![Help Instruction  helphomescreen part 3 App](homescreen-part3.png)
 
-Provider Dart App
-![Help Instruction  Provider Dart App](provider.png)
 
 flutter description 1
 ![Help Instruction flutter description 1 App](flutter-description.png)
